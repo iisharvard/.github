@@ -1,4 +1,5 @@
 # Intelligent Interactive Systems Group at Harvard
+![A landscape picture of the Harvard Science Engineering Complex with a sunset from the left and blue skies.](https://iis.seas.harvard.edu/wp-content/uploads/2024/12/SEC_Dec2024.jpg)
 The Intelligent Interactive Systems Group at Harvard was founded in September of 2009. We design, build and evaluate interactive systems that have some machine intelligence under the hood. This work requires simultaneous innovation in design and computation so we engage a wide range of methods from qualitative research, through design and quantitative controlled experiments, to building new algorithms and implementing working systems.
 
 Some of the things we are are currently working on include:
